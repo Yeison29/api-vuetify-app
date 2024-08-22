@@ -1,5 +1,6 @@
-/.idea/**
+.idea/
 test_main.http
 /venv/
-/__pycache__
-/.env
+/__pycache__/
+__pycache__/
+.env
